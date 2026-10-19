@@ -69,4 +69,4 @@ All "actual" results below were produced by running the programs. Movement resul
 | end of input | clean exit | "End of input. Exiting." | PASS |
 
 ## Final clean-extraction build test
-ZIP extracted into a new folder; both programs built with the README commands (`g++ -std=c++17 -Wall -Wextra -pedantic ...`) with no warnings and ran correctly (Linux, g++). **PASS**
+ZIP extracted into a new folder; both programs built with the README commands (`g++ -std=c++17 -Wall -Wextra -pedantic ...`) with no warnings and ran correctly (Windows, g++). **PASS**
