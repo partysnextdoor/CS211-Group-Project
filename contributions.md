@@ -2,7 +2,7 @@
 
 | Member | Responsibilities | PR links (author / reviewer / merger) | Checks performed |
 |--------|------------------|----------------------------------------|------------------|
-| Isaiah Woodford | Review code and post files | Author | Checked 2048 game + luhn |
+| Isaiah Woodford | Review code and post files | Author, https://github.com/partysnextdoor/CS211-Group-Project/pull/1 | Checked 2048 game + luhn |
 | Isaac Hedrich | Review code and review files posted | Reviewer, https://github.com/partysnextdoor/CS211-Group-Project/pull/2 | Checked 2048 game + luhn, checked files posted for accuracy |
 
 ## Outside sources / tools
