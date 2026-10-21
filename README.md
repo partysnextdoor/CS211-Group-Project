@@ -22,7 +22,7 @@ g++ -std=c++17 -Wall -Wextra -pedantic game2048/test_moves.cpp game2048/2048_hel
 ## 2048 controls
 | Key | Action |
 |-----|--------|
-| u d l r | slide up / down / left / right |
+| u d l r | slide up / slide down / slide left / slide right |
 | s | save to `savegame.txt` (one slot; saving again **replaces** it) |
 | o | open/load `savegame.txt` |
 | n | new game (asks y/n) |
