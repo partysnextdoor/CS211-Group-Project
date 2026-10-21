@@ -1,7 +1,7 @@
 # CS211 Group Project: 2048 + Luhn Validation
 
 - **Session / group:** MW / Group 19  
-- **Members (GitHub usernames):** Isaiah Woodford (@partysnextdoor), Issac Hedrich (@isaachedrich-prog)
+- **Members (GitHub usernames):** Isaiah Woodford (@partysnextdoor), Isaac Hedrich (@isaachedrich-prog)
 - **Repository:** [https://github.com/OWNER/cs211-project-mw-group01](https://github.com/partysnextdoor/CS211-Group-Project) 
 
 ## Programs
