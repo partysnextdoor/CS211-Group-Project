@@ -1,8 +1,8 @@
 # CS211 Group Project: 2048 + Luhn Validation
 
-- **Session / group:** MW / Group01  *(edit)*
-- **Members (GitHub usernames):** Isaiah Woodford (@your-username), ... *(edit; no WSUIDs here)*
-- **Repository:** https://github.com/OWNER/cs211-project-mw-group01 *(edit)*
+- **Session / group:** MW / Group 19  
+- **Members (GitHub usernames):** Isaiah Woodford (@partysnextdoor), Issac Hedrich (@isaachedrich-prog)
+- **Repository:** [https://github.com/OWNER/cs211-project-mw-group01](https://github.com/partysnextdoor/CS211-Group-Project) 
 
 ## Programs
 **game2048/** - playable 5x5 console 2048 with scoring, win/game-over detection and a single-slot save/load.
